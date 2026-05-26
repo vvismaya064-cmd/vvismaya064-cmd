@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=E8C5A0&center=true&vCenter=true&width=600&lines=✨+Founder+%40+vismaya__art;🎨+Fashion+%26+Visual+Designer;🖌️+Brand+Identity+Specialist;💡+Social+Media+Creative;🌸+Turning+Ideas+Into+Art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=1000&color=E8C5A0&center=true&vCenter=true&width=620&lines=Founder+%40+vismaya__art+%F0%9F%8C%B8;Fashion+%26+Visual+Designer+%F0%9F%8E%A8;Brand+Identity+Specialist+%E2%9C%A8;Social+Media+Creative+%F0%9F%92%AB;Turning+Ideas+Into+Art+%F0%9F%96%8C%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,7 +46,7 @@ currently   : Building vismaya__art from the ground up 🚀
 ![Social Media Design](https://img.shields.io/badge/Social%20Media%20Design-F59E0B?style=for-the-badge&logo=instagram&logoColor=white)
 ![Creative Direction](https://img.shields.io/badge/Creative%20Direction-10B981?style=for-the-badge&logo=adobe&logoColor=white)
 ![Communication](https://img.shields.io/badge/Communication-3B82F6?style=for-the-badge&logo=wechat&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-EF4444?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-EF4444?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Team Work](https://img.shields.io/badge/Team%20Work-8B5CF6?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
 </div>
@@ -83,13 +83,13 @@ currently   : Building vismaya__art from the ground up 🚀
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vismayavk&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=E8C5A0&icon_color=FF6B9D&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vismayavk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E8C5A0&icon_color=FF6B9D&text_color=c9d1d9" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismayavk&layout=compact&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=E8C5A0&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismayavk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E8C5A0&text_color=c9d1d9" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vismayavk&theme=rose-pine&hide_border=true&background=0d1117&ring=E8C5A0&fire=FF6B9D&currStreakLabel=E8C5A0" />
+<img src="https://streak-stats.demolab.com?user=vismayavk&theme=tokyonight&hide_border=true&background=0d1117&ring=E8C5A0&fire=FF6B9D&currStreakLabel=E8C5A0" />
 
 </div>
 
