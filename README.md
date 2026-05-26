@@ -83,13 +83,13 @@ currently   : Building vismaya__art from the ground up 🚀
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vismayavk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E8C5A0&icon_color=FF6B9D&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vvismaya064-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E8C5A0&icon_color=FF6B9D&text_color=c9d1d9" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismayavk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E8C5A0&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvismaya064-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E8C5A0&text_color=c9d1d9" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vismayavk&theme=tokyonight&hide_border=true&background=0d1117&ring=E8C5A0&fire=FF6B9D&currStreakLabel=E8C5A0" />
+<img src="https://streak-stats.demolab.com?user=vvismaya064-cmd&theme=tokyonight&hide_border=true&background=0d1117&ring=E8C5A0&fire=FF6B9D&currStreakLabel=E8C5A0" />
 
 </div>
 
@@ -116,7 +116,7 @@ currently   : Building vismaya__art from the ground up 🚀
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vismayavk&color=FF6B9D&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=vvismaya064-cmd&color=FF6B9D&style=for-the-badge&label=Profile+Views)
 
 </div>
 
